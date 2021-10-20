@@ -30,6 +30,7 @@
 
 "Acima de tudo não tenha medo dos momentos difíceis.O que há de melhor vem com eles." - Rita Levi
 
+
 “A primeira coisa sobre o empoderamento é entender que você tem o direito de estar envolvida. A segunda é que você tem contribuições importantes a fazer, e a terceira é que você tem de se arriscar para fazer essas contribuições.” - Mae Jemison
 
 "Gostaria que você soubesse que existe dentro de si uma força capaz de mudar sua vida, basta que lute e aguarde um novo amanhecer."  - Margaret Thatcher
@@ -60,3 +61,5 @@ mesmo é fundamental." - Fernanda Sozinho
 "Nós não crescemos quando as coisas são fáceis;crescemos quando enfrentamos desafios" - Raymonda Yeh
 
 “A prática cria confiança. Então, a confiança lhe empodera.” – Simone Biles
+
+"Uma mulher programando irá mudar não apenas o mundo dela, mas também o mundo do mundo que a cerca"
