@@ -60,3 +60,5 @@ mesmo é fundamental." - Fernanda Sozinho
 "Nós não crescemos quando as coisas são fáceis;crescemos quando enfrentamos desafios" - Raymonda Yeh
 
 “A prática cria confiança. Então, a confiança lhe empodera.” – Simone Biles
+
+"Uma mulher programando irá mudar não apenas o mundo dela, mas também o mundo do mundo que a cerca"
